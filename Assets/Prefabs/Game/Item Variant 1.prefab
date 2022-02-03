@@ -69,7 +69,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4268629356540644041, guid: 1e33106a0068044429114e8a0414a9de, type: 3}
       propertyPath: OnActivateEvent.m_PersistentCalls.m_Calls.Array.data[7].m_Mode
-      value: 6
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4268629356540644041, guid: 1e33106a0068044429114e8a0414a9de, type: 3}
       propertyPath: OnActivateEvent.m_PersistentCalls.m_Calls.Array.data[6].m_Target
@@ -78,7 +78,7 @@ PrefabInstance:
     - target: {fileID: 4268629356540644041, guid: 1e33106a0068044429114e8a0414a9de, type: 3}
       propertyPath: OnActivateEvent.m_PersistentCalls.m_Calls.Array.data[7].m_Target
       value: 
-      objectReference: {fileID: 769030599464284263}
+      objectReference: {fileID: 769030597863577197}
     - target: {fileID: 4268629356540644041, guid: 1e33106a0068044429114e8a0414a9de, type: 3}
       propertyPath: OnActivateEvent.m_PersistentCalls.m_Calls.Array.data[6].m_CallState
       value: 2
@@ -93,7 +93,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4268629356540644041, guid: 1e33106a0068044429114e8a0414a9de, type: 3}
       propertyPath: OnActivateEvent.m_PersistentCalls.m_Calls.Array.data[7].m_MethodName
-      value: SetActive
+      value: Play
       objectReference: {fileID: 0}
     - target: {fileID: 4268629356540644041, guid: 1e33106a0068044429114e8a0414a9de, type: 3}
       propertyPath: OnActivateEvent.m_PersistentCalls.m_Calls.Array.data[6].m_TargetAssemblyTypeName
@@ -101,7 +101,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4268629356540644041, guid: 1e33106a0068044429114e8a0414a9de, type: 3}
       propertyPath: OnActivateEvent.m_PersistentCalls.m_Calls.Array.data[7].m_TargetAssemblyTypeName
-      value: UnityEngine.GameObject, UnityEngine
+      value: UnityEngine.ParticleSystem, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 4268629356540644041, guid: 1e33106a0068044429114e8a0414a9de, type: 3}
       propertyPath: OnActivateEvent.m_PersistentCalls.m_Calls.Array.data[6].m_Arguments.m_ObjectArgumentAssemblyTypeName
@@ -121,8 +121,8 @@ PrefabInstance:
       objectReference: {fileID: 21300000, guid: 65bcad1576d4ec545aa160416a5796f0, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1e33106a0068044429114e8a0414a9de, type: 3}
---- !u!1 &769030599464284263 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4268629357080947879, guid: 1e33106a0068044429114e8a0414a9de, type: 3}
+--- !u!198 &769030597863577197 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 4268629357640338093, guid: 1e33106a0068044429114e8a0414a9de, type: 3}
   m_PrefabInstance: {fileID: 3571656362538851520}
   m_PrefabAsset: {fileID: 0}
